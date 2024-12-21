@@ -1,0 +1,21 @@
+[ {
+  "name" : "lightmap-alpha-etc1.ktx",
+  "size" : 174908,
+  "md5" : "90813499b1932ca236104da650abb74f"
+}, {
+  "name" : "lightmap-astc.ktx",
+  "size" : 87556,
+  "md5" : "7bd0c6de03e760bed33c2fa126161fe3"
+}, {
+  "name" : "lightmap-etc1.ktx",
+  "size" : 174908,
+  "md5" : "91cfb2717b28e1078b0f5840d7259bbf"
+}, {
+  "name" : "lightmap.webp",
+  "size" : 70752,
+  "md5" : "1afca8b10a3cbb9b529843d227e1bd8f"
+}, {
+  "name" : "object.a3d",
+  "size" : 119176,
+  "md5" : "38d5f37983b2ed135b6ab36c780d12e3"
+} ]
