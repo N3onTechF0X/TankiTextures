@@ -52,19 +52,6 @@
 | **hyperion**     | +            | +      |
 | **crisis**       | +            | +      |  
 
-| **grenade\skin** | **default**  |
-|:----------------:|:------------:|
-| **bomb**         | +            |
-| **snowball**     | +            |
-| **pumpkin**      | +            |
-| **salyut**       | ?            |
-| **flare**        | -            |
-| **medic**        | -            |
-| **magnet**       | -            |
-| **smoke**        | -            |
-| **foam**         | -            |  
-
-
 
 #### Благодарности
 
